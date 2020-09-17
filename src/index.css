@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header-logo {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+h1.content-title {
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.content {
+  background-image: url(./images/Contentbg.jpg);
+}
+
+.content-button {
+  background-color: #f9ca24;
+  font-size: 14px;
+  font-weight: bold;
+}
