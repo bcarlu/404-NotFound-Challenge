@@ -35,15 +35,6 @@
   },
   "description": "<!-- Please update value in the {}  -->",
   "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bcarlu/404-NotFound-Challenge.git"
-  },
   "author": "Brian Cardona",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bcarlu/404-NotFound-Challenge/issues"
-  },
-  "homepage": "https://github.com/bcarlu/404-NotFound-Challenge#readme"
+  "license": "ISC"
 }
