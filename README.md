@@ -38,13 +38,13 @@
 
 ![screenshot](./preview.png)
 
-En este proyecto se ha desarrollado una pagina estatica con el mensaje de error 404. Aqui se puso en practiva el desarrollo de paginas web responsive la cual es adaptativa segun el tamaño del monitor. Se han utilizado los frameworks React JS y Bootstrap. Se incluye:
+En este proyecto se ha desarrollado una pagina estatica con el mensaje de error 404. Aqui se puso en practica el desarrollo de paginas web responsive la cual es adaptativa segun el tamaño del monitor. Se han utilizado los frameworks React JS y Bootstrap. Se incluye:
 
 - Grid de Bootstrap.
 - Estilos de Bootstrap.
 - Componentes de React.
 
-In this project i has developed a static web page with the error message 404. In it i practice web responsive developping. It uses frameworks React JS and Bootstrap. It includes:
+In this project we have developed a static page with the error message 404. Here was implemented the development of responsive web pages which is adaptive to the size of the monitor. We have used the frameworks React JS and Bootstrap. It is included:
 
 - Bootstrap grid system.
 - Bootstrap styles.
