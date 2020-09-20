@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](./preview.png)
 
 En este proyecto se ha desarrollado una pagina estatica con el mensaje de error 404. Aqui se puso en practiva el desarrollo de paginas web responsive la cual es adaptativa segun el tamaño del monitor. Se han utilizado los frameworks React JS y Bootstrap. Se incluye:
 
