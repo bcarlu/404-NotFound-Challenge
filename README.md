@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404nfchallenge.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/bcarlu/404-NotFound-Challenge">
       Solution
     </a>
     <span> | </span>
@@ -38,20 +38,26 @@
 
 ![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+En este proyecto se ha desarrollado una pagina estatica con el mensaje de error 404. Aqui se puso en practiva el desarrollo de paginas web responsive la cual es adaptativa segun el tamaño del monitor. Se han utilizado los frameworks React JS y Bootstrap. Se incluye:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- Grid de Bootstrap.
+- Estilos de Bootstrap.
+- Componentes de React.
+
+In this project i has developed a static web page with the error message 404. In it i practice web responsive developping. It uses frameworks React JS and Bootstrap. It includes:
+
+- Bootstrap grid system.
+- Bootstrap styles.
+- React components.
+
+
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Features
 
@@ -64,12 +70,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [Brian Cardona](https://www.linkedin.com/in/brian-cardona-lujan-7a32371ab)
+- GitHub [@bcarlu](https://{github.com/bcarlu})
